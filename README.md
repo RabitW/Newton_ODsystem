@@ -105,4 +105,10 @@ https://github.com/crown-prince/Newton_ODsystem/blob/master/MD_pic/%E5%B1%95%E7%
 
 The MIT License. <br><br>
 
-Copyright (c) 2017 繁星科技_Wind Punish安全实验室<br>
+Copyright (c) 2017 环宇繁星科技_Wind Punish安全实验室<br>
+
+2017/11/26更新
+部分设置需要手动修改，如paths.js
+另外展示端首页地址为
+http://地址/邀请码/edit.php
+如http://nt.21.wf/x8oqiExp4nlJx2NWznGYoBM5e0SRwR/edit.php
